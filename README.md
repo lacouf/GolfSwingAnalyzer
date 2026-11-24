@@ -4,7 +4,7 @@ A macOS-first golf practice video review app. The initial goal is to import two 
 
 ## Current status
 
-Project planning scaffold only. The Xcode app target has not been created yet.
+The initial macOS SwiftUI app target has been created in `GolfSwingAnalyzer/`. It currently contains Xcode's starter screen; the video import and analysis workflow has not been implemented yet.
 
 ## Planned first milestones
 
